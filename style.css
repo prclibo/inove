@@ -16,7 +16,7 @@ body{font-size:14px;font-family:"Microsoft YaHei",Verdana,"BitStream vera Sans",
 h1,h2,h3,h4,h5,h6{letter-spacing:-0.05em;font-weight:bold;font-family:Arial}
 h1{font-size:170%}
 h2{font-size:170%}
-h3{font-size:140%}
+h3 {font-size:150%/*150%*/;padding-top: 6px;padding-bottom: 6px;letter-spacing: 1px;}
 h4{font-size:130%}
 h5{font-size:110%}
 h6{font-size:100%}
@@ -104,10 +104,10 @@ input.textfield,textarea{padding:2px 1px;border:1px solid #A6A6A6;font-size:12px
 #notice a{text-decoration:underline}
 #crumbs{margin:5px 0;padding-left:22px;line-height:16px;background:url(img/icons.gif) no-repeat 0 -320px}
 
-.post{padding-bottom:5px !important;padding-bottom:15px}
+.post{padding-bottom:5px !important;padding-bottom:15px;margin-bottom: 20px;box-shadow: 0px 0px 5px 2px #ccc;-moz-box-shadow: 0px 0px 5px 2px #ccc;-webkit-box-shadow: 0px 0px 5px 2px #ccc;}
 *+html .post{padding-bottom:15px !important}
 
-.post h2{display:block;margin-top:10px;padding:0 5px 3px;border-bottom:1px solid #CCC;font-size:16px;font-family:Verdana,"BitStream vera Sans"}
+.post h2 {display:block;margin-top:10px;border-bottom:1px solid #CCC;/*border-right:1px solid #CCC;*/border-left: 1px solid white;border-top: 1px solid white;/*padding:0 5px 3px;*/padding:10px 8px 8px 8px;font-size:18px;font-family:'Microsoft YaHei',Verdana,"BitStream vera Sans";background: #EEE;}
 .post h2 a.title{text-decoration:none;color:#4C4C4C}
 .post h2 a.title:hover{color:#2970A6}
 .post h2 .act a{font-weight:normal}
@@ -130,7 +130,7 @@ input.textfield,textarea{padding:2px 1px;border:1px solid #A6A6A6;font-size:12px
 .post .addlink{background-position:0 -176px}
 .post .editlinks{background-position:0 -192px}
 
-.post .content{overflow:hidden;line-height:145%;padding:5px 0 0 5px}
+.post .content {/*padding:5px 0 0 5px;*/padding:8px;line-height:145%; /*145%*/overflow:hidden;border-left: 1px solid #EEE;border-right: 1px solid #EEE;background: white;line-height: 22px;}
 .post .content p{margin-bottom:10px}
 .post .under{height:16px;margin:0 5px 10px;line-height:16px;font-size:11px}
 .post .under span{float:left;margin-right:15px}
@@ -162,7 +162,7 @@ input.textfield,textarea{padding:2px 1px;border:1px solid #A6A6A6;font-size:12px
 /* sidebar START */
 #sidebar{float:right;width:300px;padding-top:8px;overflow:hidden;line-height:145%;font-size:95%;background:#F7F7F7 url(img/sidebar_shadow.gif) repeat-x 50% 0}
 #sidebar li{padding-left:22px;list-style:none;margin-top:5px;background:url(img/icons.gif) no-repeat 0 -624px}
-#sidebar .content,#sidebar li{font-size:12px}
+#sidebar .content,#sidebar li{font-size:14px}
 
 #centersidebar,#northsidebar .widget,#southsidebar .widget{padding:10px 15px 16px;background:url(img/widgetsep.png) bottom no-repeat}
 #centersidebar{padding-bottom:6px}
