@@ -1,0 +1,587 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iNove 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-27 16:49+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mg12 <wuzhao.mail@gmail.com>\n"
+"Language-Team: NeoEase <http://www.neoease.com/themes/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: Taiwan\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+#: header.php:22
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - 所有文章"
+
+#: 404.php:9
+#: header.php:23
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - 所有評論"
+
+#: 404.php:22
+msgid "Talker"
+msgstr "評論者"
+
+#: 404.php:25
+msgid "Welcome to 404 error page!"
+msgstr "歡迎來到 WordPress 404 錯誤頁面"
+
+#: 404.php:26
+msgid "Welcome to this customized error page. You've reached this page because you've clicked on a link that does not exist. This is probably our fault... but instead of showing you the basic '404 Error' page that is confusing and doesn't really explain anything, we've created this page to explain what went wrong."
+msgstr "歡迎來到 WordPress 的錯誤頁面 , 您會進入這個頁面表示您剛才點選了一個失效的連結。當然 , 這也有可能是我們搞錯了........。但是 , 不管如何......."
+
+#: 404.php:27
+msgid "You can either (a) click on the 'back' button in your browser and try to navigate through our site in a different direction, or (b) click on the following link to go to homepage."
+msgstr "您現在可以選擇:(a) 點選瀏覽器上方的 上一頁 按鈕 , 如此您可以回到上(前)一個頁面 , 或者 (b) 您可以點選下方的連結回到本部落格的首頁。"
+
+#: 404.php:29
+msgid "Back to homepage &raquo;"
+msgstr "回到部落格首頁 &raquo;"
+
+#: archive.php:10
+msgid "Search Results"
+msgstr "搜尋結果"
+
+#: archive.php:11
+#, php-format
+msgid "Keyword: &#8216;%1$s&#8217;"
+msgstr "關鍵字: &#8216;%1$s&#8217;"
+
+#: archive.php:14
+msgid "Archive"
+msgstr "歸檔: "
+
+#: archive.php:19
+#, php-format
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr "&#8216;%1$s&#8217; 分類過的Archive"
+
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr "文章標籤 &#8216;%1$s&#8217;"
+
+#: archive.php:25
+#: archive.php:28
+#: archive.php:31
+#, php-format
+msgid "Archive for %1$s"
+msgstr "%1$s 的Archive"
+
+#: archive.php:25
+#: archive.php:47
+#: archives.php:14
+#: comments.php:73
+#: functions.php:578
+#: index.php:21
+#: links.php:25
+#: page.php:8
+#: single.php:15
+msgid "F jS, Y"
+msgstr "Y年n月j日"
+
+#: archive.php:28
+msgid "F, Y"
+msgstr "Y年n月"
+
+#: archive.php:31
+msgid "Y"
+msgstr "Y年"
+
+#: archive.php:34
+msgid "Author Archive"
+msgstr "作者Archive"
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr "部落格Archive"
+
+#: archive.php:49
+#: archives.php:15
+#: comments.php:77
+#: functions.php:588
+#: index.php:23
+#: links.php:26
+#: page.php:9
+#: single.php:17
+msgid "Edit"
+msgstr "編輯"
+
+#: archive.php:50
+#: index.php:24
+msgid "No comments"
+msgstr "尚無評論"
+
+#: archive.php:50
+#: index.php:24
+msgid "1 comment"
+msgstr "1 則評論"
+
+#: archive.php:50
+#: index.php:24
+#, php-format
+msgid "% comments"
+msgstr "% 則評論"
+
+#: archive.php:50
+#: index.php:24
+msgid "Comments off"
+msgstr "評論已關閉"
+
+#: archive.php:53
+#: index.php:27
+msgid "Read more..."
+msgstr "閱讀全文..."
+
+#: archive.php:56
+#: index.php:30
+#: single.php:27
+msgid "Categories: "
+msgstr "分類: "
+
+#: archive.php:57
+#: index.php:31
+#: single.php:28
+msgid "Tags: "
+msgstr "標籤: "
+
+#: archive.php:62
+#: archives.php:38
+#: index.php:36
+#: links.php:56
+#: page.php:24
+#: single.php:52
+msgid "Sorry, no posts matched your criteria."
+msgstr "很抱歉，此篇文章不存在..."
+
+#: archive.php:70
+#: index.php:44
+msgid "Newer Entries"
+msgstr "較新的文章"
+
+#: archive.php:71
+#: index.php:45
+msgid "Older Entries"
+msgstr "較舊的文章"
+
+#: archives.php:17
+#: comments.php:25
+#: links.php:28
+#: page.php:11
+#: single.php:19
+msgid "Leave a comment"
+msgstr "發表評論"
+
+#: archives.php:18
+#: links.php:29
+#: page.php:12
+#: single.php:20
+msgid "Go to comments"
+msgstr "閱讀評論"
+
+#: comments.php:5
+msgid "Enter your password to view comments."
+msgstr "請輸入您的密碼再閱讀評論的內容。"
+
+#: comments.php:19
+#: comments.php:22
+#: functions.php:353
+msgid "Comments"
+msgstr "評論"
+
+#: comments.php:20
+msgid "Trackbacks"
+msgstr ""
+
+#: comments.php:28
+msgid "Trackback"
+msgstr ""
+
+#: comments.php:39
+msgid "No comments yet."
+msgstr "目前尚無任何的評論。"
+
+#: comments.php:51
+msgid "Comment pages"
+msgstr "評論分頁"
+
+#: comments.php:73
+#: functions.php:578
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s%2$s"
+
+#: comments.php:73
+#: functions.php:578
+msgid "H:i"
+msgstr ""
+
+#: comments.php:90
+msgid "No trackbacks yet."
+msgstr "目前尚無任何 trackbacks 和 pingbacks。"
+
+#: comments.php:104
+msgid "Comments are closed."
+msgstr "目前尚未開放評論的功能。"
+
+#: comments.php:115
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "您必須 <a href=\"%s\">登入</a> 後才能發表評論。"
+
+#: comments.php:131
+msgid "Logged in as"
+msgstr "登入帳號:"
+
+#: comments.php:132
+msgid "Log out of this account"
+msgstr "登出帳號"
+
+#: comments.php:132
+msgid "Logout &raquo;"
+msgstr "登出 &raquo;"
+
+#: comments.php:138
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "歡迎回來 , <strong>%s</strong>"
+
+#: comments.php:139
+msgid "Change &raquo;"
+msgstr "修改 &raquo;"
+
+#: comments.php:140
+msgid "Close &raquo;"
+msgstr "隱藏 &raquo;"
+
+#: comments.php:147
+msgid "Name"
+msgstr "暱稱"
+
+#: comments.php:147
+#: comments.php:151
+msgid "(required)"
+msgstr "(必填)"
+
+#: comments.php:151
+msgid "E-Mail (will not be published)"
+msgstr "E-mail"
+
+#: comments.php:155
+msgid "Website"
+msgstr "網址"
+
+#: comments.php:172
+msgid "Subscribe to comments feed"
+msgstr "訂閱評論"
+
+#: comments.php:174
+msgid "Submit Comment"
+msgstr "發表評論"
+
+#: footer.php:16
+msgid "Top"
+msgstr "Top"
+
+#: footer.php:26
+msgid "Copyright &copy; "
+msgstr "版權所有 &copy; "
+
+#: footer.php:38
+#, php-format
+msgid "Theme by <a href=\"%1$s\">NeoEase</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+msgstr "主題由 <a href=\"%1$s\">NeoEase</a> 提供，通過 <a href=\"%2$s\">XHTML 1.1</a> 和 <a href=\"%3$s\">CSS 3</a> 認證。"
+
+#: functions.php:178
+#: functions.php:187
+msgid "Current Theme Options"
+msgstr "iNove主題設定"
+
+#: functions.php:192
+msgid "Search"
+msgstr "搜尋"
+
+#: functions.php:196
+msgid "Using google custom search engine."
+msgstr "使用 Google 自訂搜尋引擎"
+
+#: functions.php:199
+msgid "CX:"
+msgstr ""
+
+#: functions.php:202
+#, php-format
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"%1$s\">Google Custom Search Engine</a>, and type the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "首先在 <a href=\"%1$s\">Google自訂搜尋引擎</a> 建立您專屬的搜尋引擎 , 並在控制台的程式碼裡的 <strong>搜尋框程式碼</strong> 中找到 <code>name=\"cx\"</code> , 並將此程式碼 <code>value</code> 的數值鍵入到上方的輸入框內。<br/>例如:<code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: functions.php:211
+msgid "Sidebar"
+msgstr "側邊欄"
+
+#: functions.php:215
+msgid "Hide sidebar from all pages."
+msgstr "在首頁及所有的分頁不顯示 sidebar。"
+
+#: functions.php:218
+msgid "Sidebar position:"
+msgstr "側邊欄位置:"
+
+#: functions.php:220
+msgid "Left"
+msgstr "左邊"
+
+#: functions.php:221
+msgid "Right"
+msgstr "右邊"
+
+#: functions.php:232
+msgid "Notice"
+msgstr "公佈欄"
+
+#: functions.php:234
+#: functions.php:258
+#: functions.php:293
+#: functions.php:416
+msgid "HTML enabled"
+msgstr "HTML 可用"
+
+#: functions.php:240
+msgid "This notice bar will display at the top of posts on homepage."
+msgstr "此公佈欄會顯示在部落格首頁文章區域的最上方。"
+
+#: functions.php:256
+msgid "Banner"
+msgstr ""
+
+#: functions.php:262
+msgid "This banner will display at the right of header. (height: 60 pixels)"
+msgstr "這個 Banner 會顯示在部落格頂部的右側。"
+
+#: functions.php:264
+#: functions.php:299
+msgid "Who can see?"
+msgstr "誰可以看到？"
+
+#: functions.php:267
+#: functions.php:302
+msgid "Registered Users"
+msgstr "註冊用戶"
+
+#: functions.php:271
+#: functions.php:306
+msgid "Commentator"
+msgstr "評論者"
+
+#: functions.php:275
+#: functions.php:310
+msgid "Visitors"
+msgstr "訪客"
+
+#: functions.php:291
+#: sidebar.php:57
+msgid "Showcase"
+msgstr "Showcase"
+
+#: functions.php:297
+msgid "This showcase will display at the top of sidebar."
+msgstr "這個 Showcase 會顯示在 Sidebar 的最上方。"
+
+#: functions.php:315
+msgid "Title:"
+msgstr "標題:"
+
+#: functions.php:331
+msgid "Posts"
+msgstr "文章"
+
+#: functions.php:335
+msgid "Show author on posts."
+msgstr "在文章中顯示作者名稱"
+
+#: functions.php:339
+msgid "Show categories on posts."
+msgstr "在文章中顯示分類名稱"
+
+#: functions.php:343
+msgid "Show tags on posts."
+msgstr "在文章中顯示標籤名稱"
+
+#: functions.php:357
+msgid "Submit comments with Ctrl+Enter."
+msgstr "可使用快速鍵 \"Ctrl+Enter\" 送出評論。"
+
+#: functions.php:367
+msgid "Feed"
+msgstr "訂閱"
+
+#: functions.php:371
+msgid "Show the feed reader list when mouse over on feed button."
+msgstr "當游標移動到訂閱按鈕上方，顯示訂閱器列表。"
+
+#: functions.php:376
+msgid "Custom feed."
+msgstr "自訂訂閱"
+
+#: functions.php:378
+#: functions.php:384
+msgid "URL:"
+msgstr ""
+
+#: functions.php:382
+msgid "Email feed."
+msgstr "郵件訂閱"
+
+#: functions.php:393
+#: sidebar.php:44
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:397
+msgid "Add Twitter button."
+msgstr "添加 Twitter 按鈕"
+
+#: functions.php:400
+msgid "Twitter username:"
+msgstr "Twitter 賬戶:"
+
+#: functions.php:414
+msgid "Web Analytics"
+msgstr "網站統計代碼"
+
+#: functions.php:421
+msgid "Add web analytics code to your site. (e.g. Google Analytics, Yahoo! Web Analytics, ...)"
+msgstr "在網頁上添加網站統計代碼 (例如: Google Analytics, Yahoo! Web Analytics 等等)"
+
+#: functions.php:432
+msgid "Save Changes"
+msgstr "儲存設定"
+
+#: functions.php:473
+#: functions.php:492
+#: single.php:7
+msgid "Home"
+msgstr "首頁"
+
+#: functions.php:582
+msgid "Reply"
+msgstr "回覆"
+
+#: functions.php:583
+msgid "Quote"
+msgstr "引用"
+
+#: functions.php:594
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論需要經過部落格的管理人員審核通過後才會生效。"
+
+#: links.php:18
+msgid "Add link"
+msgstr "新增連結"
+
+#: links.php:19
+msgid "Edit links"
+msgstr "編輯連結"
+
+#: sidebar.php:25
+msgid "Subscribe to this blog..."
+msgstr "訂閱部落格的文章"
+
+#: sidebar.php:25
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "訂閱"
+
+#: sidebar.php:28
+#: sidebar.php:29
+#: sidebar.php:30
+#: sidebar.php:31
+#: sidebar.php:32
+#: sidebar.php:33
+#: sidebar.php:34
+#: sidebar.php:35
+#: sidebar.php:36
+#: sidebar.php:37
+msgid "Subscribe with "
+msgstr "訂閱到"
+
+#: sidebar.php:28
+msgid "Google"
+msgstr "Google"
+
+#: sidebar.php:29
+msgid "Youdao"
+msgstr "有道"
+
+#: sidebar.php:30
+msgid "Xian Guo"
+msgstr "鮮果"
+
+#: sidebar.php:31
+msgid "Zhua Xia"
+msgstr "抓蝦"
+
+#: sidebar.php:32
+msgid "Douban"
+msgstr "豆瓣九點"
+
+#: sidebar.php:33
+#: sidebar.php:34
+msgid "QQ Mail"
+msgstr " QQ 郵箱"
+
+#: sidebar.php:34
+msgid "My Yahoo!"
+msgstr "My Yahoo！"
+
+#: sidebar.php:35
+msgid "newsgator"
+msgstr "newsgator"
+
+#: sidebar.php:36
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: sidebar.php:37
+msgid "iNezha"
+msgstr "哪吒"
+
+#: sidebar.php:42
+msgid "Subscribe to this blog via email..."
+msgstr "透過電子郵件訂閱部落格的文章"
+
+#: sidebar.php:42
+msgid "Email feed"
+msgstr "郵件訂閱"
+
+#: sidebar.php:44
+msgid "Follow me!"
+msgstr ""
+
+#: searchform.php:27
+msgid "Type text to search here..."
+msgstr "請輸入關鍵字..."
+
+#~ msgid "Menubar"
+#~ msgstr "選單"
+
+#~ msgid "Show pages as menu."
+#~ msgstr "將分頁列表作成選單"
+
+#~ msgid "Show categories as menu."
+#~ msgstr "將分類列表作成選單"
+
+#~ msgid "Advanced edit"
+#~ msgstr "進階編輯"
+
+#~ msgid "Go to homepage"
+#~ msgstr "回到首頁"
+
+#~ msgid "Author: "
+#~ msgstr "作者："

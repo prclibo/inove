@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iNove 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-07 14:01+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: aatkco <aatkco@gmail.com>\n"
+"Language-Team: NeoEase <http://www.neoease.com/themes/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+#: header.php:27
+msgid "RSS 2.0 - all posts"
+msgstr "الخلاصات - كل التدوينات"
+
+#: 404.php:9
+#: header.php:28
+msgid "RSS 2.0 - all comments"
+msgstr "الخلاصات - التعليقات"
+
+#: 404.php:22
+msgid "Talker"
+msgstr "المتحدث"
+
+#: 404.php:25
+msgid "Welcome to 404 error page!"
+msgstr "خطأ 404 - صفحة غير موجودة ."
+
+#: 404.php:26
+msgid "Welcome to this customized error page. You've reached this page because you've clicked on a link that does not exist. This is probably our fault... but instead of showing you the basic '404 Error' page that is confusing and doesn't really explain anything, we've created this page to explain what went wrong."
+msgstr "مرحبا بك فى صفحة الخطأ القابل للتعديل . أنت وصلت هنا لأنك ضغطت على رابط غير موجود . هذا غالبا خطأ من جانبنا ... ولكن بدلا من إظهار صفحة \"خطأ 404\" التقليدي التى لا تفسر الخطأ للمستخدم العادى , أنشانا هذه الصفحة لتفسر الخطأ تفسير بسيط ."
+
+#: 404.php:27
+msgid "You can either (a) click on the 'back' button in your browser and try to navigate through our site in a different direction, or (b) click on the following link to go to homepage."
+msgstr "يمكنك إما : الضغط على زر \"العودة\" فى متصفحك وتصفح باقى صفحات المدونة , أو الضغط على هذا الرابط للذهاب لرئيسية المدونة ."
+
+#: 404.php:29
+msgid "Back to homepage &raquo;"
+msgstr "العودة للصفحة الرئيسية &raquo;"
+
+#: archive.php:10
+msgid "Search Results"
+msgstr "نتائج البحث"
+
+#: archive.php:11
+#, php-format
+msgid "Keyword: &#8216;%1$s&#8217;"
+msgstr "كلمة البحث : &#8216;%1$s&#8217;"
+
+#: archive.php:14
+msgid "Archive"
+msgstr "الأرشيف"
+
+#: archive.php:19
+#, php-format
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr "أرشيف التصنيف &#8216;%1$s&#8217;"
+
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr "التدوينات الموسومة &#8216;%1$s&#8217;"
+
+#: archive.php:25
+#: archive.php:28
+#: archive.php:31
+#, php-format
+msgid "Archive for %1$s"
+msgstr "أرشيف ل %1$s"
+
+#: archive.php:25
+#: archive.php:47
+#: archives.php:14
+#: comments.php:91
+#: functions.php:563
+#: index.php:22
+#: links.php:25
+#: page.php:8
+#: single.php:15
+#: twitter.php:15
+msgid "F jS, Y"
+msgstr "J F Y"
+
+#: archive.php:28
+msgid "F, Y"
+msgstr "F Y"
+
+#: archive.php:31
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Author Archive"
+msgstr "أرشيف الكاتب"
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr "أرشيف المدونة"
+
+#: archive.php:49
+#: archives.php:15
+#: comments.php:95
+#: functions.php:571
+#: index.php:24
+#: links.php:26
+#: page.php:9
+#: single.php:17
+#: twitter.php:16
+msgid "Edit"
+msgstr "تحرير"
+
+#: archive.php:50
+#: index.php:25
+msgid "No comments"
+msgstr "لا يوجد تعليقات"
+
+#: archive.php:50
+#: index.php:25
+msgid "1 comment"
+msgstr "تعليق واحد"
+
+#: archive.php:50
+#: index.php:25
+#, php-format
+msgid "% comments"
+msgstr "% تعليق"
+
+#: archive.php:50
+#: index.php:25
+msgid "Comments off"
+msgstr "التعليقات مغلقة"
+
+#: archive.php:54
+#: index.php:29
+msgid "Read more..."
+msgstr "أكمل قراءة الموضوع ..."
+
+#: archive.php:58
+#: index.php:33
+#: single.php:29
+msgid "Categories: "
+msgstr "التصنيفات :"
+
+#: archive.php:59
+#: index.php:34
+#: single.php:30
+msgid "Tags: "
+msgstr "الوسوم :"
+
+#: archive.php:64
+#: archives.php:39
+#: index.php:39
+#: links.php:59
+#: page.php:26
+#: single.php:68
+#: twitter.php:36
+msgid "Sorry, no posts matched your criteria."
+msgstr "عفوا : لا يوجد تدوينات مطابقة لبحثك ."
+
+#: archive.php:72
+#: index.php:47
+msgid "Newer Entries"
+msgstr "التدوينات الأحدث"
+
+#: archive.php:73
+#: index.php:48
+msgid "Older Entries"
+msgstr "التدوينات الأقدم"
+
+#: archives.php:17
+#: comments.php:31
+#: links.php:28
+#: page.php:11
+#: single.php:19
+#: twitter.php:18
+msgid "Leave a comment"
+msgstr "كتابة تعليق"
+
+#: archives.php:18
+#: links.php:29
+#: page.php:12
+#: single.php:20
+#: twitter.php:19
+msgid "Go to comments"
+msgstr "الذهاب إلى التعليقات"
+
+#: comments.php:5
+msgid "Enter your password to view comments."
+msgstr "أدخل كلمة السر لعرض التعليقات ."
+
+#: comments.php:25
+#: comments.php:28
+#: functions.php:367
+msgid "Comments"
+msgstr "التعليقات"
+
+#: comments.php:26
+msgid "Trackbacks"
+msgstr "التنبيهات"
+
+#: comments.php:34
+msgid "Trackback"
+msgstr "تنبيه"
+
+#: comments.php:58
+msgid "No comments yet."
+msgstr "لا يوجد تعليقات حتى الآن ."
+
+#: comments.php:72
+msgid "Comment pages"
+msgstr "صفحات التعليقات"
+
+#: comments.php:91
+#: functions.php:563
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s فى %2$s"
+
+#: comments.php:91
+#: functions.php:563
+msgid "H:i"
+msgstr "H:i"
+
+#: comments.php:108
+msgid "No trackbacks yet."
+msgstr "لا يوجد تنبيهات حتى الآن ."
+
+#: comments.php:123
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة ."
+
+#: comments.php:134
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "يجب أن تكون <a href=\"%s\">مسجل الدخول</a> لكتابة تعليق ."
+
+#: comments.php:150
+msgid "Logged in as"
+msgstr "مسجل الدخول بإسم"
+
+#: comments.php:151
+msgid "Log out of this account"
+msgstr "تسجيل الخروج"
+
+#: comments.php:151
+msgid "Logout &raquo;"
+msgstr "تسجيل الخروج &raquo;"
+
+#: comments.php:157
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "  أهلا بعودتك <strong>%s</strong>."
+
+#: comments.php:158
+msgid "Change &raquo;"
+msgstr "تغيير &raquo;"
+
+#: comments.php:159
+msgid "Close &raquo;"
+msgstr "إغلاق &raquo;"
+
+#: comments.php:166
+msgid "Name"
+msgstr "الإسم"
+
+#: comments.php:166
+#: comments.php:170
+msgid "(required)"
+msgstr "( مطلوب )"
+
+#: comments.php:170
+msgid "E-Mail (will not be published)"
+msgstr "الإميل ( لن يتم نشره )"
+
+#: comments.php:174
+msgid "Website"
+msgstr "الموقع ( إن وجد )"
+
+#: comments.php:191
+msgid "Subscribe to comments feed"
+msgstr "الإشتراك فى خلاصات التعليقات"
+
+#: comments.php:193
+msgid "Submit Comment"
+msgstr "أضف تعليق"
+
+#: footer.php:17
+msgid "Top"
+msgstr "أعلى"
+
+#: footer.php:27
+msgid "Copyright &copy; "
+msgstr "الحقوق محفوظة &copy; "
+
+#: footer.php:39
+#, php-format
+msgid "Theme by <a href=\"%1$s\">NeoEase</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+msgstr "تصميم الإستايل بواسطة <a href=\"%1$s\">NeoEase</a>, تعريب الإستايل <a href=\"http://www.aatkcoblog.com\">Aatkco Blog</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+
+#: functions.php:180
+#: functions.php:189
+msgid "Current Theme Options"
+msgstr "إعدادات الإستايل الحالية"
+
+#: functions.php:194
+msgid "Search"
+msgstr "بحث"
+
+#: functions.php:198
+msgid "Using google custom search engine."
+msgstr "بإستخدام محرك بحث جوجل المخصص"
+
+#: functions.php:201
+msgid "CX:"
+msgstr "CX:"
+
+#: functions.php:204
+#, php-format
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"%1$s\">Google Custom Search Engine</a>, and type the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "ابحث عن <code>name=\"cx\"</code>فى<strong>كود صندوق بحث جوجل</strong> فى <a href=\"%1$s\">خدمة بحث جوجل المخصص </a>, واكتب <code>الكود</code> هنا .<br/>مثلا : <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: functions.php:213
+msgid "Menubar"
+msgstr "شريط القائمة"
+
+#: functions.php:217
+msgid "Show pages as menu."
+msgstr "عرض الصفحات فى القائمة"
+
+#: functions.php:221
+msgid "Show categories as menu."
+msgstr "عرض التصنيفات فى القائمة "
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr "القائمة الجانبية"
+
+#: functions.php:235
+msgid "Hide sidebar from all pages."
+msgstr "إخفاء القائمة الجانبية من الصفحات ."
+
+#: functions.php:246
+msgid "Notice"
+msgstr "ملحوظة"
+
+#: functions.php:248
+#: functions.php:272
+#: functions.php:307
+#: functions.php:430
+msgid "HTML enabled"
+msgstr "HTML متاحة"
+
+#: functions.php:254
+msgid "This notice bar will display at the top of posts on homepage."
+msgstr "شريط التنبيه سيظهر فى أعلى الرئيسية"
+
+#: functions.php:270
+msgid "Banner"
+msgstr "بانر إعلانى"
+
+#: functions.php:276
+msgid "This banner will display at the right of header. (height: 60 pixels)"
+msgstr "سيظهر البانر فى يمين الهيدر . ( الإرتفاع : 60 بيكسل )"
+
+#: functions.php:278
+#: functions.php:313
+msgid "Who can see?"
+msgstr "من يستطيع أن يرانى؟"
+
+#: functions.php:281
+#: functions.php:316
+msgid "Registered Users"
+msgstr "الأعضاء المسجلين"
+
+#: functions.php:285
+#: functions.php:320
+msgid "Commentator"
+msgstr "المعلقين"
+
+#: functions.php:289
+#: functions.php:324
+msgid "Visitors"
+msgstr "الزوار"
+
+#: functions.php:305
+#: sidebar.php:56
+msgid "Showcase"
+msgstr "قائمة العرض"
+
+#: functions.php:311
+msgid "This showcase will display at the top of sidebar."
+msgstr "ستظهر هذه القائمة فى أعلى القائمة الجانبية ."
+
+#: functions.php:329
+msgid "Title:"
+msgstr "العنوان :"
+
+#: functions.php:345
+msgid "Posts"
+msgstr "تدوينات"
+
+#: functions.php:349
+msgid "Show author on posts."
+msgstr "عرض إسم الكاتب فى التدوينات ."
+
+#: functions.php:353
+msgid "Show categories on posts."
+msgstr "عرض أسماء التصنيفات فى التدوينات"
+
+#: functions.php:357
+msgid "Show tags on posts."
+msgstr "عرض الوسوم فى التدوينات ."
+
+#: functions.php:371
+msgid "Submit comments with Ctrl+Enter."
+msgstr "إرسال التعليقات بضغط Ctrl+Enter"
+
+#: functions.php:381
+msgid "Feed"
+msgstr "خلاصة"
+
+#: functions.php:385
+msgid "Show the feed reader list when mouse over on feed button."
+msgstr "عرض قائمة قراء الخلاصة عند المرور بالماوس على زر الخلاصة ."
+
+#: functions.php:390
+msgid "Custom feed."
+msgstr "خلاصة مخصصة ."
+
+#: functions.php:392
+#: functions.php:398
+msgid "URL:"
+msgstr "الرابط :"
+
+#: functions.php:396
+msgid "Email feed."
+msgstr "إرسال الخلاصة بالبريد ."
+
+#: functions.php:407
+#: sidebar.php:42
+msgid "Twitter"
+msgstr "تويتر"
+
+#: functions.php:411
+msgid "Add Twitter button."
+msgstr "إضافة زر تويتر ."
+
+#: functions.php:414
+msgid "Twitter username:"
+msgstr "إسم مستخدم تويتر :"
+
+#: functions.php:428
+msgid "Web Analytics"
+msgstr "إحصائيات الموقع"
+
+#: functions.php:435
+msgid "Add web analytics code to your site. (e.g. Google Analytics, Yahoo! Web Analytics, ...)"
+msgstr "أضف كود إحصائيات الموقع . ( مثلا : جوجل اناليتكس أو ياهو ويب أناليتكس .. الخ )"
+
+#: functions.php:446
+msgid "Save Changes"
+msgstr "حفظ التعديلات"
+
+#: functions.php:567
+msgid "Reply"
+msgstr "رد"
+
+#: functions.php:568
+msgid "Quote"
+msgstr "إقتباس"
+
+#: functions.php:573
+msgid "Advanced edit"
+msgstr "تحرير متقدم"
+
+#: functions.php:579
+msgid "Your comment is awaiting moderation."
+msgstr "تعليقك بإنتظار موافقة الإدارة"
+
+#: links.php:18
+msgid "Add link"
+msgstr "أضف رابط"
+
+#: links.php:19
+msgid "Edit links"
+msgstr "تحرير الروابط"
+
+#: sidebar.php:25
+msgid "Subscribe to this blog..."
+msgstr "الإشتراك بهذه المدونة ..."
+
+#: sidebar.php:25
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"الخلاصات\">خلاصات RSS</abbr>"
+
+#: sidebar.php:28
+#: sidebar.php:29
+#: sidebar.php:30
+#: sidebar.php:31
+#: sidebar.php:32
+#: sidebar.php:33
+#: sidebar.php:34
+#: sidebar.php:35
+msgid "Subscribe with "
+msgstr "الإشتراك ب"
+
+#: sidebar.php:28
+msgid "Google"
+msgstr "Google"
+
+#: sidebar.php:29
+msgid "Youdao"
+msgstr "Youdao"
+
+#: sidebar.php:30
+msgid "Xian Guo"
+msgstr "Xian Guo"
+
+#: sidebar.php:31
+msgid "Zhua Xia"
+msgstr "Zhua Xia"
+
+#: sidebar.php:32
+msgid "My Yahoo!"
+msgstr "My Yahoo!"
+
+#: sidebar.php:33
+msgid "newsgator"
+msgstr "newsgator"
+
+#: sidebar.php:34
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: sidebar.php:35
+msgid "iNezha"
+msgstr "iNezha"
+
+#: sidebar.php:40
+msgid "Subscribe to this blog via email..."
+msgstr "الإشتراك بهذه المدونة عبر الإميل ..."
+
+#: sidebar.php:40
+msgid "Email feed"
+msgstr "خلاصة الإميل"
+
+#: sidebar.php:42
+msgid "Follow me!"
+msgstr "إتبعنى "
+
+#: single.php:7
+msgid "Go to homepage"
+msgstr "الذهاب للرئيسية"
+
+#: single.php:7
+msgid "Home"
+msgstr "الرئيسية"
+
+#: templates/header.php:66
+msgid "Type text to search here..."
+msgstr "أكتب نص البحث هنا"
+

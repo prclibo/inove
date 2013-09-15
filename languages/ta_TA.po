@@ -1,0 +1,571 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iNove 1.4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-07 14:01+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ravi <ravidreams@gmail.com>\n"
+"Language-Team: Ravidreams <ravidreams@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Tamil\n"
+"X-Poedit-Country: INDIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+#: header.php:27
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - அனைத்து இடுகைகள்"
+
+#: 404.php:9
+#: header.php:28
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - அனைத்து மறுமொழிகள்"
+
+#: 404.php:22
+msgid "Talker"
+msgstr "Talker"
+
+#: 404.php:25
+msgid "Welcome to 404 error page!"
+msgstr "404 பிழை பக்கத்துக்கு வருக!"
+
+#: 404.php:26
+msgid "Welcome to this customized error page. You've reached this page because you've clicked on a link that does not exist. This is probably our fault... but instead of showing you the basic '404 Error' page that is confusing and doesn't really explain anything, we've created this page to explain what went wrong."
+msgstr "தன் விருப்ப பிழைப் பக்கத்துக்கு வருக. இல்லாத ஒரு பக்கத்துக்கான தொடுப்பை அழுத்தியதால், இந்த பிழைப் பக்கத்துக்கு வந்துள்ளீர்கள். இது எங்கள் தவறாகத் தான் இருக்க வேண்டும்.... ஆனால், வழமையான '404' பக்கத்தைக் காட்டி உங்களைக் குழப்ப விரும்பவில்லை. என்ன தவறு நேர்ந்திருக்கலாம் என்று இந்தப் பக்கத்தில் விளக்க முயல்கிறோம்."
+
+#: 404.php:27
+msgid "You can either (a) click on the 'back' button in your browser and try to navigate through our site in a different direction, or (b) click on the following link to go to homepage."
+msgstr "நீங்கள் (அ) உங்கள் உலாவியின் 'பின்' பொத்தானை அழுத்தி எங்கள் தளத்தை வேறு வகையில் உலாவ முயலலாம். அல்லது (ஆ) பின்வரும் தொடுப்பைச் சொடுக்கி முகப்புப் பக்கத்துக்குச் செல்லலாம்."
+
+#: 404.php:29
+msgid "Back to homepage &raquo;"
+msgstr "முகப்புப் பக்கத்துக்குத் திரும்புக &raquo;"
+
+#: archive.php:10
+msgid "Search Results"
+msgstr "தேடல் முடிவுகள்"
+
+#: archive.php:11
+#, php-format
+msgid "Keyword: &#8216;%1$s&#8217;"
+msgstr "குறிச்சொல்: &#8216;%1$s&#8217;"
+
+#: archive.php:14
+msgid "Archive"
+msgstr "தொகுப்பு"
+
+#: archive.php:19
+#, php-format
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr " &#8216;%1$s&#8217;  பகுப்புக்கான தொகுப்புப் பக்கம்"
+
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr "&#8216;%1$s&#8217; என்ற குறிச்சொல்லைக் கொண்டிருக்கும் பக்கங்கள்"
+
+#: archive.php:25
+#: archive.php:28
+#: archive.php:31
+#, php-format
+msgid "Archive for %1$s"
+msgstr "%1$s -க்கான தொகுப்பு"
+
+#: archive.php:25
+#: archive.php:47
+#: archives.php:14
+#: comments.php:91
+#: functions.php:563
+#: index.php:22
+#: links.php:25
+#: page.php:8
+#: single.php:15
+#: twitter.php:15
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: archive.php:28
+msgid "F, Y"
+msgstr "F jS, Y"
+
+#: archive.php:31
+msgid "Y"
+msgstr "F jS, Y"
+
+#: archive.php:34
+msgid "Author Archive"
+msgstr "வலைப்பதிவர் தொகுப்பு"
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr "வலைப்பதிவுத் தொகுப்புகள்"
+
+#: archive.php:49
+#: archives.php:15
+#: comments.php:95
+#: functions.php:571
+#: index.php:24
+#: links.php:26
+#: page.php:9
+#: single.php:17
+#: twitter.php:16
+msgid "Edit"
+msgstr "திருத்துக"
+
+#: archive.php:50
+#: index.php:25
+msgid "No comments"
+msgstr "மறுமொழி இல்லை"
+
+#: archive.php:50
+#: index.php:25
+msgid "1 comment"
+msgstr "1 மறுமொழி"
+
+#: archive.php:50
+#: index.php:25
+#, php-format
+msgid "% comments"
+msgstr "% மறுமொழிகள்"
+
+#: archive.php:50
+#: index.php:25
+msgid "Comments off"
+msgstr "மறுமொழிகள் நிறுத்தப்பட்டுள்ளன"
+
+#: archive.php:54
+#: index.php:29
+msgid "Read more..."
+msgstr "மேலும் படிக்க..."
+
+#: archive.php:58
+#: index.php:33
+#: single.php:29
+msgid "Categories: "
+msgstr "பகுப்புகள்:"
+
+#: archive.php:59
+#: index.php:34
+#: single.php:30
+msgid "Tags: "
+msgstr "குறிச்சொற்கள்:"
+
+#: archive.php:64
+#: archives.php:39
+#: index.php:39
+#: links.php:59
+#: page.php:26
+#: single.php:68
+#: twitter.php:36
+msgid "Sorry, no posts matched your criteria."
+msgstr "மன்னிக்கவும், நீங்கள் தேடியவாறு எந்த இடுகையும் இல்லை."
+
+#: archive.php:72
+#: index.php:47
+msgid "Newer Entries"
+msgstr "புதிய வரவுகள்"
+
+#: archive.php:73
+#: index.php:48
+msgid "Older Entries"
+msgstr "பழைய வரவுகள்"
+
+#: archives.php:17
+#: comments.php:31
+#: links.php:28
+#: page.php:11
+#: single.php:19
+#: twitter.php:18
+msgid "Leave a comment"
+msgstr "மறுமொழி இடுக"
+
+#: archives.php:18
+#: links.php:29
+#: page.php:12
+#: single.php:20
+#: twitter.php:19
+msgid "Go to comments"
+msgstr "மறுமொழிகளுக்குச் செல்க"
+
+#: comments.php:5
+msgid "Enter your password to view comments."
+msgstr "மறுமொழிகளைக் காண உங்கள் கடவுச்சொல்லை உள்ளிடுக."
+
+#: comments.php:25
+#: comments.php:28
+#: functions.php:367
+msgid "Comments"
+msgstr "மறுமொழிகள்"
+
+#: comments.php:26
+msgid "Trackbacks"
+msgstr "வருதடங்கள்"
+
+#: comments.php:34
+msgid "Trackback"
+msgstr "வருதடம்"
+
+#: comments.php:58
+msgid "No comments yet."
+msgstr "இன்னும் மறுமொழி ஏதும் வரவில்லை."
+
+#: comments.php:72
+msgid "Comment pages"
+msgstr "மறுமொழிப் பக்கங்கள்"
+
+#: comments.php:91
+#: functions.php:563
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: comments.php:91
+#: functions.php:563
+msgid "H:i"
+msgstr "H:i"
+
+#: comments.php:108
+msgid "No trackbacks yet."
+msgstr "வருதடங்கள் ஏதும் இல்லை."
+
+#: comments.php:123
+msgid "Comments are closed."
+msgstr "மறுமொழிப் பெட்டி மூடப்பட்டுள்ளது."
+
+#: comments.php:134
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "மறுமொழி அளிக்க, நீங்கள் ஒரு <a href=\"%s\">பயனர் பெயரில் புகுபதிய வேண்டும்</a>."
+
+#: comments.php:150
+msgid "Logged in as"
+msgstr "புகுபதிந்துள்ள பயனர் பெயர்"
+
+#: comments.php:151
+msgid "Log out of this account"
+msgstr "இந்தப் பயனர் கணக்கில் இருந்து வெளியேறுக"
+
+#: comments.php:151
+msgid "Logout &raquo;"
+msgstr "வெளியேறுக &raquo;"
+
+#: comments.php:157
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "வருக <strong>%s</strong>."
+
+#: comments.php:158
+msgid "Change &raquo;"
+msgstr "மாற்றுக &raquo;"
+
+#: comments.php:159
+msgid "Close &raquo;"
+msgstr "மூடுக &raquo;"
+
+#: comments.php:166
+msgid "Name"
+msgstr "பெயர்"
+
+#: comments.php:166
+#: comments.php:170
+msgid "(required)"
+msgstr "(தேவை)"
+
+#: comments.php:170
+msgid "E-Mail (will not be published)"
+msgstr "மின்மடல் (வெளியிட மாட்டோம்)"
+
+#: comments.php:174
+msgid "Website"
+msgstr "வலைத்தளம்"
+
+#: comments.php:191
+msgid "Subscribe to comments feed"
+msgstr "மறுமொழி ஓடையைப் பெறுக"
+
+#: comments.php:193
+msgid "Submit Comment"
+msgstr "மறுமொழியை அளிக்கவும்"
+
+#: footer.php:17
+msgid "Top"
+msgstr "மேலே"
+
+#: footer.php:27
+msgid "Copyright &copy; "
+msgstr "பதிப்புரிமை &copy; "
+
+#: footer.php:39
+#, php-format
+msgid "Theme by <a href=\"%1$s\">NeoEase</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+msgstr "வார்ப்புரு வடிவமைப்பு <a href=\"%1$s\">NeoEase</a>. <a href=\"%2$s\">XHTML 1.1</a>, <a href=\"%3$s\">CSS 3</a> சரி பார்க்கப்பட்டது."
+
+#: functions.php:180
+#: functions.php:189
+msgid "Current Theme Options"
+msgstr "தற்போதைய வார்ப்புருவின் தெரிவுகள்"
+
+#: functions.php:194
+msgid "Search"
+msgstr "தேடல்"
+
+#: functions.php:198
+msgid "Using google custom search engine."
+msgstr "கூகுள் தன்விருப்பத் தேடு பொறியைப் பயன்படுத்தி."
+
+#: functions.php:201
+msgid "CX:"
+msgstr "CX:"
+
+#: functions.php:204
+#, php-format
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"%1$s\">Google Custom Search Engine</a>, and type the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "<a href=\"%1$s\">கூகுள் தன்விருப்பத் தேடல் பொறியின்</a> <strong>தேடல் பெட்டி நிரலில்</strong> <code>name=\"cx\"</code> என்பதைக் கண்டு,  அதில் உள்ள <code>value</code> என்பதை இங்கே எழுதுங்கள். <br/>எடுத்துக்காட்டுக்கு, <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: functions.php:213
+msgid "Menubar"
+msgstr "பட்டியல் பட்டை"
+
+#: functions.php:217
+msgid "Show pages as menu."
+msgstr "பக்கங்களைப் பட்டியலாக காட்டுக."
+
+#: functions.php:221
+msgid "Show categories as menu."
+msgstr "பகுப்புகளைப் பட்டியலாக காட்டுக."
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr "பக்கப்பட்டை"
+
+#: functions.php:235
+msgid "Hide sidebar from all pages."
+msgstr "அனைத்துப் பக்கங்களிலும் பக்கப்பட்டையை மறைக்கவும்."
+
+#: functions.php:246
+msgid "Notice"
+msgstr "அறிவிப்பு"
+
+#: functions.php:248
+#: functions.php:272
+#: functions.php:307
+#: functions.php:430
+msgid "HTML enabled"
+msgstr "HTML வசதியுடன்"
+
+#: functions.php:254
+msgid "This notice bar will display at the top of posts on homepage."
+msgstr "இந்த அறிவிப்புப் பட்டையை, முகப்புப் பக்கத்தில் எல்லா இடுகைகளுக்கும் மேலே காணலாம்."
+
+#: functions.php:270
+msgid "Banner"
+msgstr "தட்டி"
+
+#: functions.php:276
+msgid "This banner will display at the right of header. (height: 60 pixels)"
+msgstr "இந்தத் தட்டி, தலைப்பகுதிக்கு வலப்பக்கமாகத் தெரியும். (உயரம்: 60 பிக்சல்கள்)"
+
+#: functions.php:278
+#: functions.php:313
+msgid "Who can see?"
+msgstr "யார் பார்க்கலாம்?"
+
+#: functions.php:281
+#: functions.php:316
+msgid "Registered Users"
+msgstr "பதிவு செய்த பயனர்கள்"
+
+#: functions.php:285
+#: functions.php:320
+msgid "Commentator"
+msgstr "மறுமொழியாளர்"
+
+#: functions.php:289
+#: functions.php:324
+msgid "Visitors"
+msgstr "வருகையாளர்கள்"
+
+#: functions.php:305
+#: sidebar.php:56
+msgid "Showcase"
+msgstr "காட்சி"
+
+#: functions.php:311
+msgid "This showcase will display at the top of sidebar."
+msgstr "இதைப் பக்கப்பட்டையின் மேற்பக்கத்தில் காணலாம்."
+
+#: functions.php:329
+msgid "Title:"
+msgstr "தலைப்பு:"
+
+#: functions.php:345
+msgid "Posts"
+msgstr "இடுகைகள்"
+
+#: functions.php:349
+msgid "Show author on posts."
+msgstr "இடுகைகளில் வலைப்பதிவர் பெயரைக் காட்டுக"
+
+#: functions.php:353
+msgid "Show categories on posts."
+msgstr "இடுகைகளில் பகுப்புப் பெயர்களைக் காட்டுக"
+
+#: functions.php:357
+msgid "Show tags on posts."
+msgstr "இடுகைகளில் குறிச்சொற்களைக் காட்டுக"
+
+#: functions.php:371
+msgid "Submit comments with Ctrl+Enter."
+msgstr "Ctrl+Enter மூலம் மறுமொழிகளை அளிக்கவும்."
+
+#: functions.php:381
+msgid "Feed"
+msgstr "ஓடை"
+
+#: functions.php:385
+msgid "Show the feed reader list when mouse over on feed button."
+msgstr "ஓடைப் பொத்தான் மேல் சொடுக்கியைக் கொண்டு செல்லும் போது, ஓடை வாசிப்பான்கள் பட்டியல்களைக் காட்டுக."
+
+#: functions.php:390
+msgid "Custom feed."
+msgstr "விருப்ப ஓடை."
+
+#: functions.php:392
+#: functions.php:398
+msgid "URL:"
+msgstr "வலைத்தள முகவரி:"
+
+#: functions.php:396
+msgid "Email feed."
+msgstr "மின்மடல் ஓடை."
+
+#: functions.php:407
+#: sidebar.php:42
+msgid "Twitter"
+msgstr "டுவிட்டர்"
+
+#: functions.php:411
+msgid "Add Twitter button."
+msgstr "டுவிட்டர் பொத்தானைச் சேர்க்கவும்"
+
+#: functions.php:414
+msgid "Twitter username:"
+msgstr "டுவிட்டர் பயனர் பெயர்:"
+
+#: functions.php:428
+msgid "Web Analytics"
+msgstr "வருகை ஆய்வு"
+
+#: functions.php:435
+msgid "Add web analytics code to your site. (e.g. Google Analytics, Yahoo! Web Analytics, ...)"
+msgstr "வருகை ஆய்வு நிரல்களைச் சேர்கவும் (எ-கா: Google Analytics, Yahoo! Web Analytics, ...)"
+
+#: functions.php:446
+msgid "Save Changes"
+msgstr "மாற்றங்களைச் சேமிக்கவும்"
+
+#: functions.php:567
+msgid "Reply"
+msgstr "பதில் அளிக்கவும்"
+
+#: functions.php:568
+msgid "Quote"
+msgstr "மேற்கோள் காட்டவும்"
+
+#: functions.php:573
+msgid "Advanced edit"
+msgstr "மேம்பட்ட திருத்தம்"
+
+#: functions.php:579
+msgid "Your comment is awaiting moderation."
+msgstr "உங்கள் மறுமொழி மட்டுறுத்தலுக்காக காத்துள்ளது."
+
+#: links.php:18
+msgid "Add link"
+msgstr "தொடுப்பைச் சேர்க்கவும்"
+
+#: links.php:19
+msgid "Edit links"
+msgstr "தொடுப்புகளைத் திருத்துக"
+
+#: sidebar.php:25
+msgid "Subscribe to this blog..."
+msgstr "இவ்வலைப்பதிவைப் பெறுக"
+
+#: sidebar.php:25
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: sidebar.php:28
+#: sidebar.php:29
+#: sidebar.php:30
+#: sidebar.php:31
+#: sidebar.php:32
+#: sidebar.php:33
+#: sidebar.php:34
+#: sidebar.php:35
+msgid "Subscribe with "
+msgstr "வலைப்பதிவைப் பெறும் முறை"
+
+#: sidebar.php:28
+msgid "Google"
+msgstr "கூகுள்"
+
+#: sidebar.php:29
+msgid "Youdao"
+msgstr "Youdao"
+
+#: sidebar.php:30
+msgid "Xian Guo"
+msgstr "Xian Guo"
+
+#: sidebar.php:31
+msgid "Zhua Xia"
+msgstr "Zhua Xia"
+
+#: sidebar.php:32
+msgid "My Yahoo!"
+msgstr "என் யாகூ!"
+
+#: sidebar.php:33
+msgid "newsgator"
+msgstr "நியூசுகேட்டர்"
+
+#: sidebar.php:34
+msgid "Bloglines"
+msgstr "பிளாக்லைன்சு"
+
+#: sidebar.php:35
+msgid "iNezha"
+msgstr "iNezha"
+
+#: sidebar.php:40
+msgid "Subscribe to this blog via email..."
+msgstr "இவ்வலைப்பதிவை மின்மடலில் பெறுக..."
+
+#: sidebar.php:40
+msgid "Email feed"
+msgstr "மின்மடல் ஓடை"
+
+#: sidebar.php:42
+msgid "Follow me!"
+msgstr "என்னைப் பின் தொடர்க!"
+
+#: single.php:7
+msgid "Go to homepage"
+msgstr "முகப்புப் பக்கத்துக்குச் செல்லவும்"
+
+#: single.php:7
+msgid "Home"
+msgstr "முகப்பு"
+
+#: templates/header.php:66
+msgid "Type text to search here..."
+msgstr "இங்கே எழுதினால் தேடலாம்..."
+

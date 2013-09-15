@@ -1,0 +1,691 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iNove v1.4.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2009-11-04 02:52-0600\n"
+"Last-Translator: Romeo Shuka <webmaster@romeolab.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Albanian\n"
+"X-Poedit-Country: ALBANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#: header.php:27
+#@ inove
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - të gjithë postimet"
+
+#: 404.php:9
+#: header.php:28
+#@ inove
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - të gjithë komentet"
+
+#: 404.php:22
+#@ inove
+msgid "Talker"
+msgstr "Folësi"
+
+#: 404.php:25
+#@ inove
+msgid "Welcome to 404 error page!"
+msgstr "Mirëse erdhët në faqen 404 gabim!"
+
+#: 404.php:26
+#@ inove
+msgid "Welcome to this customized error page. You've reached this page because you've clicked on a link that does not exist. This is probably our fault... but instead of showing you the basic '404 Error' page that is confusing and doesn't really explain anything, we've created this page to explain what went wrong."
+msgstr "Mirëseerdhët në faqen 404. Ju keni arritur këtu sepse keni klikuar në një lidhje që nuk ekziston. Ky është një gabim i joni... por në vend që t'ju tregojmë faqen normale të '404 Errior' ne ju tregojmë këtë gjë për t'ju lënë të kuptoni ku qëndron gabimi."
+
+#: 404.php:27
+#@ inove
+msgid "You can either (a) click on the 'back' button in your browser and try to navigate through our site in a different direction, or (b) click on the following link to go to homepage."
+msgstr "Ju mund të klikoni tek butoni 'mbrapsht' në broswerin tuaj dhe të mundoheni të lundroni nëpë faqe ose të klikoni lidhjen e mëposhtëme për të shkruar tek faqja kryesore."
+
+#: 404.php:29
+#@ inove
+msgid "Back to homepage &raquo;"
+msgstr "Kthehu tek Faqja Kryesore &raquo;"
+
+#: archive.php:10
+#@ inove
+msgid "Search Results"
+msgstr "Rezultatet e Kërkimit"
+
+#: archive.php:11
+#, php-format
+#@ inove
+msgid "Keyword: &#8216;%1$s&#8217;"
+msgstr "Keyword:  &#8216;%1$s&#8217;"
+
+#: archive.php:14
+#@ inove
+msgid "Archive"
+msgstr "Arshiva"
+
+#: archive.php:19
+#, php-format
+#@ inove
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr "Arshiva për &#8216;%1$s&#8217; Kategorinë"
+
+#: archive.php:22
+#, php-format
+#@ inove
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr "Postimi etiketuar &#8216;%1$s&#8217;"
+
+#: archive.php:25
+#: archive.php:28
+#: archive.php:31
+#, php-format
+#@ inove
+msgid "Archive for %1$s"
+msgstr "Arshiva për %1$s"
+
+#: archive.php:25
+#: archive.php:47
+#: archives.php:14
+#: comments.php:91
+#: functions.php:563
+#: index.php:22
+#: links.php:25
+#: page.php:8
+#: single.php:15
+#: twitter.php:15
+#@ inove
+msgid "F jS, Y"
+msgstr "j F Y"
+
+#: archive.php:28
+#@ inove
+msgid "F, Y"
+msgstr "F, Y"
+
+#: archive.php:31
+#@ inove
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+#@ inove
+msgid "Author Archive"
+msgstr "Arshiva Autorit"
+
+#: archive.php:37
+#@ inove
+msgid "Blog Archives"
+msgstr "Arshiva Blogut"
+
+#: archive.php:49
+#: archives.php:15
+#: comments.php:95
+#: functions.php:571
+#: index.php:24
+#: links.php:26
+#: page.php:9
+#: single.php:17
+#: twitter.php:16
+#@ inove
+msgid "Edit"
+msgstr "Ndrysho"
+
+#: archive.php:50
+#: index.php:25
+#@ inove
+msgid "No comments"
+msgstr "Asnjë Koment"
+
+#: archive.php:50
+#: index.php:25
+#@ inove
+msgid "1 comment"
+msgstr "1 Koment"
+
+#: archive.php:50
+#: index.php:25
+#@ inove
+msgid "% comments"
+msgstr "% Komente"
+
+#: archive.php:50
+#: index.php:25
+#@ inove
+msgid "Comments off"
+msgstr "Komentet nuk jan aktive"
+
+#: archive.php:54
+#: index.php:29
+#@ inove
+msgid "Read more..."
+msgstr "Lexo më shumë..."
+
+#: archive.php:58
+#: index.php:33
+#: single.php:29
+#@ inove
+msgid "Categories: "
+msgstr "Kategoritë:"
+
+#: archive.php:59
+#: index.php:34
+#: single.php:30
+#@ inove
+msgid "Tags: "
+msgstr "Etiketat:"
+
+#: archive.php:64
+#: archives.php:39
+#: index.php:39
+#: links.php:59
+#: page.php:26
+#: single.php:68
+#: twitter.php:36
+#@ inove
+msgid "Sorry, no posts matched your criteria."
+msgstr "Na vjen keq, asnjë postim nuk i plotëson kriteret tuaja."
+
+#: archive.php:72
+#: index.php:47
+#@ inove
+msgid "Newer Entries"
+msgstr "Postime më të reja"
+
+#: archive.php:73
+#: index.php:48
+#@ inove
+msgid "Older Entries"
+msgstr "Postime më të vjetra"
+
+#: archives.php:17
+#: comments.php:31
+#: links.php:28
+#: page.php:11
+#: single.php:19
+#: twitter.php:18
+#@ inove
+msgid "Leave a comment"
+msgstr "Lër një koment"
+
+#: archives.php:18
+#: links.php:29
+#: page.php:12
+#: single.php:20
+#: twitter.php:19
+#@ inove
+msgid "Go to comments"
+msgstr "Shko tek Komentet"
+
+#: comments.php:5
+#@ inove
+msgid "Enter your password to view comments."
+msgstr "Vendosni fjalëkalimin tuaj për të parë komentet."
+
+#: comments.php:25
+#: comments.php:28
+#: functions.php:367
+#@ inove
+msgid "Comments"
+msgstr "Komentet"
+
+#: comments.php:26
+#@ inove
+msgid "Trackbacks"
+msgstr "Trackbacks"
+
+#: comments.php:34
+#@ inove
+msgid "Trackback"
+msgstr "Trackback"
+
+#: comments.php:58
+#@ inove
+msgid "No comments yet."
+msgstr "Asnjë Koment"
+
+#: comments.php:72
+#@ inove
+msgid "Comment pages"
+msgstr "Faqja komenteve"
+
+#: comments.php:91
+#: functions.php:563
+#, php-format
+#@ inove
+msgid "%1$s at %2$s"
+msgstr "%1$s më %2$s"
+
+#: comments.php:91
+#: functions.php:563
+#@ inove
+msgid "H:i"
+msgstr "H:i"
+
+#: comments.php:108
+#@ inove
+msgid "No trackbacks yet."
+msgstr "Asnjë trackback."
+
+#: comments.php:123
+#@ inove
+msgid "Comments are closed."
+msgstr "Komentet janë mbyllur."
+
+#: comments.php:134
+#, php-format
+#@ inove
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Ju duhet të jeni të <a href=\"%s\">kyçur</a> për të postuar një koment."
+
+#: comments.php:150
+#@ inove
+msgid "Logged in as"
+msgstr "I kyçur si"
+
+#: comments.php:151
+#@ inove
+msgid "Log out of this account"
+msgstr "Dil nga kjo llogari"
+
+#: comments.php:151
+#@ inove
+msgid "Logout &raquo;"
+msgstr "Dil &raquo;"
+
+#: comments.php:157
+#, php-format
+#@ inove
+msgid "Welcome back <strong>%s</strong>."
+msgstr "Mirëseerdhe <strong>%s</strong>."
+
+#: comments.php:158
+#@ inove
+msgid "Change &raquo;"
+msgstr "Ndrysho &raquo;"
+
+#: comments.php:159
+#@ inove
+msgid "Close &raquo;"
+msgstr "Mbyll &raquo;"
+
+#: comments.php:166
+#@ inove
+msgid "Name"
+msgstr "Emri"
+
+#: comments.php:166
+#: comments.php:170
+#@ inove
+msgid "(required)"
+msgstr "(i detyruar)"
+
+#: comments.php:170
+#@ inove
+msgid "E-Mail (will not be published)"
+msgstr "E-Mail (nuk do të publikohet)"
+
+#: comments.php:174
+#@ inove
+msgid "Website"
+msgstr "Website"
+
+#: comments.php:191
+#@ inove
+msgid "Subscribe to comments feed"
+msgstr "Abonohu tek komentet me anë të feed"
+
+#: comments.php:193
+#@ inove
+msgid "Submit Comment"
+msgstr "Posto Komentin"
+
+#: footer.php:17
+#@ inove
+msgid "Top"
+msgstr "Top"
+
+#: footer.php:27
+#@ inove
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: footer.php:39
+#, php-format
+#@ inove
+msgid "Theme by <a href=\"%1$s\">NeoEase</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+msgstr "Theme nga <a href=\"%1$s\">NeoEase</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> dhe <a href=\"%3$s\">CSS 3</a>."
+
+#: functions.php:180
+#: functions.php:189
+#@ inove
+msgid "Current Theme Options"
+msgstr "Cilësitë e Lajtmotivit"
+
+#: functions.php:194
+#@ inove
+msgid "Search"
+msgstr "Kërkimi"
+
+#: functions.php:198
+#@ inove
+msgid "Using google custom search engine."
+msgstr "Përdor makinën e kërkimit të google."
+
+#: functions.php:201
+#@ inove
+msgid "CX:"
+msgstr "CX:"
+
+#: functions.php:204
+#, php-format
+#@ inove
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"%1$s\">Google Custom Search Engine</a>, and type the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "Gjej <code>name=\"cx\"</code> në <strong>Search box code</strong> të <a href=\"%1$s\">Google Custom Search Engine</a>, dhe vendosni <code>vlerën</code> këtu.<br/>Për shembull: <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: functions.php:213
+#@ inove
+msgid "Menubar"
+msgstr "Menubar"
+
+#: functions.php:217
+#@ inove
+msgid "Show pages as menu."
+msgstr "Trego faqet si menu."
+
+#: functions.php:221
+#@ inove
+msgid "Show categories as menu."
+msgstr "Trego kategoritë si menu."
+
+#: functions.php:231
+#@ inove
+msgid "Sidebar"
+msgstr "Sidebar"
+
+#: functions.php:235
+#@ inove
+msgid "Hide sidebar from all pages."
+msgstr "Fsheh sidebar nga të gjitha faqet."
+
+#: functions.php:246
+#@ inove
+msgid "Notice"
+msgstr "Shënim"
+
+#: functions.php:248
+#: functions.php:272
+#: functions.php:307
+#: functions.php:430
+#@ inove
+msgid "HTML enabled"
+msgstr "Lejohet HTML"
+
+#: functions.php:254
+#@ inove
+msgid "This notice bar will display at the top of posts on homepage."
+msgstr "Ky shënim do të shfaqet në fillim të postimeve në faqen kryesore."
+
+#: functions.php:270
+#@ inove
+msgid "Banner"
+msgstr "Banner"
+
+#: functions.php:276
+#@ inove
+msgid "This banner will display at the right of header. (height: 60 pixels)"
+msgstr "Ky banner do të shfaqet në të djathtën te koka lajtmotivit. (lartësia: 50 pixels)."
+
+#: functions.php:278
+#: functions.php:313
+#@ inove
+msgid "Who can see?"
+msgstr "Kush mund ta shohi?"
+
+#: functions.php:281
+#: functions.php:316
+#@ inove
+msgid "Registered Users"
+msgstr "Personat e regjistruar"
+
+#: functions.php:285
+#: functions.php:320
+#@ inove
+msgid "Commentator"
+msgstr "Komentuesi"
+
+#: functions.php:289
+#: functions.php:324
+#@ inove
+msgid "Visitors"
+msgstr "Vizitorët"
+
+#: functions.php:305
+#: sidebar.php:56
+#@ inove
+msgid "Showcase"
+msgstr "Showcase"
+
+#: functions.php:311
+#@ inove
+msgid "This showcase will display at the top of sidebar."
+msgstr "Ky showcase do të shfaqet në fillim të sidebarit."
+
+#: functions.php:329
+#@ inove
+msgid "Title:"
+msgstr "Titulli:"
+
+#: functions.php:345
+#@ inove
+msgid "Posts"
+msgstr "Postimet"
+
+#: functions.php:349
+#@ inove
+msgid "Show author on posts."
+msgstr "Trego autorin në postime."
+
+#: functions.php:353
+#@ inove
+msgid "Show categories on posts."
+msgstr "Trego kategorinë në postime."
+
+#: functions.php:357
+#@ inove
+msgid "Show tags on posts."
+msgstr "Trego etiketat në postime."
+
+#: functions.php:371
+#@ inove
+msgid "Submit comments with Ctrl+Enter."
+msgstr "Posto komentet me Ctrl+Enter."
+
+#: functions.php:381
+#@ inove
+msgid "Feed"
+msgstr "Feed"
+
+#: functions.php:385
+#@ inove
+msgid "Show the feed reader list when mouse over on feed button."
+msgstr "Trego listen e lexuesve feed kur mausi vendoset mbi butonin e feed."
+
+#: functions.php:390
+#@ inove
+msgid "Custom feed."
+msgstr "Feed tuaj."
+
+#: functions.php:392
+#: functions.php:398
+#@ inove
+msgid "URL:"
+msgstr "URL:"
+
+#: functions.php:396
+#@ inove
+msgid "Email feed."
+msgstr "Emaili i feed."
+
+#: functions.php:407
+#: sidebar.php:42
+#@ inove
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:411
+#@ inove
+msgid "Add Twitter button."
+msgstr "Shto butonin e Twitter"
+
+#: functions.php:414
+#@ inove
+msgid "Twitter username:"
+msgstr "Emri i përdoruesit në Twitter:"
+
+#: functions.php:428
+#@ inove
+msgid "Web Analytics"
+msgstr "Web Analytics"
+
+#: functions.php:435
+#@ inove
+msgid "Add web analytics code to your site. (e.g. Google Analytics, Yahoo! Web Analytics, ...)"
+msgstr "Shto kodin e web analytics në faqen tuaj. (p.sh. Google Analytics, Yahoo!, Web Analytics,...)"
+
+#: functions.php:446
+#@ inove
+msgid "Save Changes"
+msgstr "Ruaj Ndryshimet"
+
+#: functions.php:567
+#@ inove
+msgid "Reply"
+msgstr "Përgjigju"
+
+#: functions.php:568
+#@ inove
+msgid "Quote"
+msgstr "Cito"
+
+#: functions.php:573
+#@ inove
+msgid "Advanced edit"
+msgstr "Ndryshime të avancuara"
+
+#: functions.php:579
+#@ inove
+msgid "Your comment is awaiting moderation."
+msgstr "Komenti juaj pret të moderohet."
+
+#: links.php:18
+#@ inove
+msgid "Add link"
+msgstr "Shto lidhje"
+
+#: links.php:19
+#@ inove
+msgid "Edit links"
+msgstr "Ndrysho lidhje"
+
+#: sidebar.php:25
+#@ inove
+msgid "Subscribe to this blog..."
+msgstr "Abonohu tek ky blog..."
+
+#: sidebar.php:25
+#@ inove
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+
+#: sidebar.php:28
+#: sidebar.php:29
+#: sidebar.php:30
+#: sidebar.php:31
+#: sidebar.php:32
+#: sidebar.php:33
+#: sidebar.php:34
+#: sidebar.php:35
+#@ inove
+msgid "Subscribe with "
+msgstr "Abonohu me anë të"
+
+#: sidebar.php:28
+#@ inove
+msgid "Google"
+msgstr "Google"
+
+#: sidebar.php:29
+#@ inove
+msgid "Youdao"
+msgstr "Youdao"
+
+#: sidebar.php:30
+#@ inove
+msgid "Xian Guo"
+msgstr "Xian Guo"
+
+#: sidebar.php:31
+#@ inove
+msgid "Zhua Xia"
+msgstr "Zhua Xia"
+
+#: sidebar.php:32
+#@ inove
+msgid "My Yahoo!"
+msgstr "My Yahoo!"
+
+#: sidebar.php:33
+#@ inove
+msgid "newsgator"
+msgstr "newsgator"
+
+#: sidebar.php:34
+#@ inove
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: sidebar.php:35
+#@ inove
+msgid "iNezha"
+msgstr "iNezha"
+
+#: sidebar.php:40
+#@ inove
+msgid "Subscribe to this blog via email..."
+msgstr "Abonohu tek ky blog me anë të emailit..."
+
+#: sidebar.php:40
+#@ inove
+msgid "Email feed"
+msgstr "Email feed"
+
+#: sidebar.php:42
+#@ inove
+msgid "Follow me!"
+msgstr "Më ndiq!"
+
+#: single.php:7
+#@ inove
+msgid "Go to homepage"
+msgstr "Shko tek faqja kryesore"
+
+#: single.php:7
+#: templates/header.php:29
+#@ inove
+msgid "Home"
+msgstr "Faqja Kryesore"
+
+#: templates/header.php:66
+#@ inove
+msgid "Type text to search here..."
+msgstr "Vendosni tekstin për kërkim..."
+

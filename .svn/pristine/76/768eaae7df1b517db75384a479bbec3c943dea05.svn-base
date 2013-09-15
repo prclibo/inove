@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iNove 1.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-07 14:07+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: NeoEase <http://www.neoease.com/themes/>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+#: header.php:27
+msgid "RSS 2.0 - all posts"
+msgstr "RSS 2.0 - bütün yazılar"
+
+#: 404.php:9
+#: header.php:28
+msgid "RSS 2.0 - all comments"
+msgstr "RSS 2.0 - bütün yorumlar"
+
+#: 404.php:22
+msgid "Talker"
+msgstr "Konuşkan"
+
+#: 404.php:25
+msgid "Welcome to 404 error page!"
+msgstr "404 Hata sayfasına hoşgeldiniz !"
+
+#: 404.php:26
+msgid "Welcome to this customized error page. You've reached this page because you've clicked on a link that does not exist. This is probably our fault... but instead of showing you the basic '404 Error' page that is confusing and doesn't really explain anything, we've created this page to explain what went wrong."
+msgstr "Düzenlenmiş olan bu hata sayfasına hoşgeldiniz. Bu sayfayı görüyorsunuz çünkü tıkladığınız link çalışmıyor. Bu bir hata olabilir... Ancak bu düzeltilemeyeceğini göstermez, yani şu anda gördüğünüz hata sayfası burada neyin yanlış olduğu hakkında bilgi sahibi olunması amacıyla yaratılmıştır ve okurların daha iyi bir içeriğe ulaşmasında yardımcı olmaktadır."
+
+#: 404.php:27
+msgid "You can either (a) click on the 'back' button in your browser and try to navigate through our site in a different direction, or (b) click on the following link to go to homepage."
+msgstr "Yapabilecekleriniz; (1) tarayıcınızın menüsünden geri tuşuna basarak bir önceki alana dönebilirsiniz. (2) burdaki linke tıklayarak ana sayfaya ulaşabilirsiniz."
+
+#: 404.php:29
+msgid "Back to homepage &raquo;"
+msgstr "Anasayfaya dön &raquo;"
+
+#: archive.php:10
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
+#: archive.php:11
+#, php-format
+msgid "Keyword: &#8216;%1$s&#8217;"
+msgstr "Kelimeler: &#8216;%1$s&#8217;"
+
+#: archive.php:14
+msgid "Archive"
+msgstr "Arşiv"
+
+#: archive.php:19
+#, php-format
+msgid "Archive for the &#8216;%1$s&#8217; Category"
+msgstr "&#8216;%1$s&#8217 Kategorisi için Arşiv"
+
+#: archive.php:22
+#, php-format
+msgid "Posts Tagged &#8216;%1$s&#8217;"
+msgstr "Yazılar buna göre etiketlendi; &#8216;%1$s&#8217"
+
+#: archive.php:25
+#: archive.php:28
+#: archive.php:31
+#, php-format
+msgid "Archive for %1$s"
+msgstr "%1$s için Arşiv"
+
+#: archive.php:25
+#: archive.php:47
+#: archives.php:14
+#: comments.php:91
+#: functions.php:563
+#: index.php:22
+#: links.php:25
+#: page.php:8
+#: single.php:15
+#: twitter.php:15
+msgid "F jS, Y"
+msgstr "l, d M Y"
+
+#: archive.php:28
+msgid "F, Y"
+msgstr "I, Y"
+
+#: archive.php:31
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:34
+msgid "Author Archive"
+msgstr "Yazar Arşivi"
+
+#: archive.php:37
+msgid "Blog Archives"
+msgstr "Blog Arşivi"
+
+#: archive.php:49
+#: archives.php:15
+#: comments.php:95
+#: functions.php:571
+#: index.php:24
+#: links.php:26
+#: page.php:9
+#: single.php:17
+#: twitter.php:16
+msgid "Edit"
+msgstr "Düzenle"
+
+#: archive.php:50
+#: index.php:25
+msgid "No comments"
+msgstr "Yorum Yok"
+
+#: archive.php:50
+#: index.php:25
+msgid "1 comment"
+msgstr "1 yorum"
+
+#: archive.php:50
+#: index.php:25
+#, php-format
+msgid "% comments"
+msgstr "% yorum"
+
+#: archive.php:50
+#: index.php:25
+msgid "Comments off"
+msgstr "Yorumlar kapalı"
+
+#: archive.php:54
+#: index.php:29
+msgid "Read more..."
+msgstr "Devamını oku..."
+
+#: archive.php:58
+#: index.php:33
+#: single.php:29
+msgid "Categories: "
+msgstr "Kategoriler: "
+
+#: archive.php:59
+#: index.php:34
+#: single.php:30
+msgid "Tags: "
+msgstr "Etiketler: "
+
+#: archive.php:64
+#: archives.php:39
+#: index.php:39
+#: links.php:59
+#: page.php:26
+#: single.php:68
+#: twitter.php:36
+msgid "Sorry, no posts matched your criteria."
+msgstr "Üzgünüm, aramanıza uygun içerik bulunamadı."
+
+#: archive.php:72
+#: index.php:47
+msgid "Newer Entries"
+msgstr "Yeni Yazılar"
+
+#: archive.php:73
+#: index.php:48
+msgid "Older Entries"
+msgstr "Eski Yazılar"
+
+#: archives.php:17
+#: comments.php:31
+#: links.php:28
+#: page.php:11
+#: single.php:19
+#: twitter.php:18
+msgid "Leave a comment"
+msgstr "Yorum Ekle"
+
+#: archives.php:18
+#: links.php:29
+#: page.php:12
+#: single.php:20
+#: twitter.php:19
+msgid "Go to comments"
+msgstr "Yorumlara git"
+
+#: comments.php:5
+msgid "Enter your password to view comments."
+msgstr "Yorumları görmek için parolayı girin."
+
+#: comments.php:25
+#: comments.php:28
+#: functions.php:367
+msgid "Comments"
+msgstr "Yorumlar"
+
+#: comments.php:26
+msgid "Trackbacks"
+msgstr "Geri İzlemeler"
+
+#: comments.php:34
+msgid "Trackback"
+msgstr "Geri İzleme"
+
+#: comments.php:58
+msgid "No comments yet."
+msgstr "Şimdilik yorum yok."
+
+#: comments.php:72
+msgid "Comment pages"
+msgstr "Yorum sayfaları"
+
+#: comments.php:91
+#: functions.php:563
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s zamanında %2$s"
+
+#: comments.php:91
+#: functions.php:563
+msgid "H:i"
+msgstr "H:i"
+
+#: comments.php:108
+msgid "No trackbacks yet."
+msgstr "Şimdilik geri izleme yok"
+
+#: comments.php:123
+msgid "Comments are closed."
+msgstr "Yorumlar kapalı."
+
+#: comments.php:134
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Yorum yapabilmek için <a href=\"<?php echo get_option('siteurl'); ?>/wp-login.php?redirect_to=<?php the_permalink(); ?>\">giriş</a> yapmalısınız."
+
+#: comments.php:150
+msgid "Logged in as"
+msgstr "<olarak giriş yapılmış."
+
+#: comments.php:151
+msgid "Log out of this account"
+msgstr "Hesaptan çıkış yap"
+
+#: comments.php:151
+msgid "Logout &raquo;"
+msgstr "Çıkış &raquo;"
+
+#: comments.php:157
+#, php-format
+msgid "Welcome back <strong>%s</strong>."
+msgstr "Tekrar hoşgeldiniz <strong>%s</strong>."
+
+#: comments.php:158
+msgid "Change &raquo;"
+msgstr "Değiştir &raquo;"
+
+#: comments.php:159
+msgid "Close &raquo;"
+msgstr "Kapat &raquo;"
+
+#: comments.php:166
+msgid "Name"
+msgstr "İsim"
+
+#: comments.php:166
+#: comments.php:170
+msgid "(required)"
+msgstr "(gerekli)"
+
+#: comments.php:170
+msgid "E-Mail (will not be published)"
+msgstr "E-Posta (gösterilmeyecek)"
+
+#: comments.php:174
+msgid "Website"
+msgstr "Web Adresi"
+
+#: comments.php:191
+msgid "Subscribe to comments feed"
+msgstr "Yorum akışına abone olun"
+
+#: comments.php:193
+msgid "Submit Comment"
+msgstr "Yorumu gönder"
+
+#: footer.php:17
+msgid "Top"
+msgstr "Üst"
+
+#: footer.php:27
+msgid "Copyright &copy; "
+msgstr "Copyright &copy; "
+
+#: footer.php:39
+#, php-format
+msgid "Theme by <a href=\"%1$s\">NeoEase</a>. Valid <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+msgstr "Arayüz <a href=\"%1$s\">NeoEase</a>. Geçerli <a href=\"%2$s\">XHTML 1.1</a> and <a href=\"%3$s\">CSS 3</a>."
+
+#: functions.php:180
+#: functions.php:189
+msgid "Current Theme Options"
+msgstr "Şuanki Arayüz Ayarları"
+
+#: functions.php:194
+msgid "Search"
+msgstr "Arama"
+
+#: functions.php:198
+msgid "Using google custom search engine."
+msgstr "Google Özel Arama Motorunu kullan."
+
+#: functions.php:201
+msgid "CX:"
+msgstr "CX:"
+
+#: functions.php:204
+#, php-format
+msgid "Find <code>name=\"cx\"</code> in the <strong>Search box code</strong> of <a href=\"%1$s\">Google Custom Search Engine</a>, and type the <code>value</code> here.<br/>For example: <code>014782006753236413342:1ltfrybsbz4</code>"
+msgstr "<a href=\"%1$s\">Google Özel Arama Motoru</a>'nun Arama kutusu kodunda <code>name=\"cx\"</code> kodunu bul ve kodu yukarıya yerleştir.<br/>Örneğin: <code>014782006753236413342:1ltfrybsbz4</code>"
+
+#: functions.php:213
+msgid "Menubar"
+msgstr "Menü"
+
+#: functions.php:217
+msgid "Show pages as menu."
+msgstr "Sayfaları menüde göster."
+
+#: functions.php:221
+msgid "Show categories as menu."
+msgstr "Kategorileri menüde göster."
+
+#: functions.php:231
+msgid "Sidebar"
+msgstr "Kenar Çubuğu"
+
+#: functions.php:235
+msgid "Hide sidebar from all pages."
+msgstr "Kenar Çubuğunu bütün sayfalardan kaldır"
+
+#: functions.php:246
+msgid "Notice"
+msgstr "Bildirim"
+
+#: functions.php:248
+#: functions.php:272
+#: functions.php:307
+#: functions.php:430
+msgid "HTML enabled"
+msgstr "HTML etkin"
+
+#: functions.php:254
+msgid "This notice bar will display at the top of posts on homepage."
+msgstr "Bu bildirim kutusu sayfada yazıların üstünde gösterilir."
+
+#: functions.php:270
+msgid "Banner"
+msgstr "Banner"
+
+#: functions.php:276
+msgid "This banner will display at the right of header. (height: 60 pixels)"
+msgstr "Bu banner sağ üst kısımda yer alacaktır. (yükseklik: 60 pixels)"
+
+#: functions.php:278
+#: functions.php:313
+msgid "Who can see?"
+msgstr "Kimler görebilir ?"
+
+#: functions.php:281
+#: functions.php:316
+msgid "Registered Users"
+msgstr "Kayıtlı Kullanıcılar"
+
+#: functions.php:285
+#: functions.php:320
+msgid "Commentator"
+msgstr "Yorumcular"
+
+#: functions.php:289
+#: functions.php:324
+msgid "Visitors"
+msgstr "Ziyaretçiler"
+
+#: functions.php:305
+#: sidebar.php:56
+msgid "Showcase"
+msgstr "Bildiri Kutusu"
+
+#: functions.php:311
+msgid "This showcase will display at the top of sidebar."
+msgstr "Bu bildiri kutusu sayfada yan menünün üstünde gösterilir."
+
+#: functions.php:329
+msgid "Title:"
+msgstr "Başlık:"
+
+#: functions.php:345
+msgid "Posts"
+msgstr "Yazılar"
+
+#: functions.php:349
+msgid "Show author on posts."
+msgstr "Yazılarda yazarı  göster"
+
+#: functions.php:353
+msgid "Show categories on posts."
+msgstr "Yazılarda kategorileri göster"
+
+#: functions.php:357
+msgid "Show tags on posts."
+msgstr "Yazılarda etiketleri göster."
+
+#: functions.php:371
+msgid "Submit comments with Ctrl+Enter."
+msgstr "Ctrl+Enter ile yorumları gönder."
+
+#: functions.php:381
+msgid "Feed"
+msgstr "Akış"
+
+#: functions.php:385
+msgid "Show the feed reader list when mouse over on feed button."
+msgstr "Fare beslemeler'in üzerine gelince beslemeleri listele."
+
+#: functions.php:390
+msgid "Custom feed."
+msgstr "Ayarlanılabilir akış."
+
+#: functions.php:392
+#: functions.php:398
+msgid "URL:"
+msgstr "URL:"
+
+#: functions.php:396
+msgid "Email feed."
+msgstr "E-Posta akışı."
+
+#: functions.php:407
+#: sidebar.php:42
+msgid "Twitter"
+msgstr "Twitter"
+
+#: functions.php:411
+msgid "Add Twitter button."
+msgstr "Twitter düğmesini ekle."
+
+#: functions.php:414
+msgid "Twitter username:"
+msgstr "Twitter kullanıcı adı:"
+
+#: functions.php:428
+msgid "Web Analytics"
+msgstr "Web Analytics"
+
+#: functions.php:435
+msgid "Add web analytics code to your site. (e.g. Google Analytics, Yahoo! Web Analytics, ...)"
+msgstr "Web Analytics kodlarını sitenize ekleyiniz"
+
+#: functions.php:446
+msgid "Save Changes"
+msgstr "Ayarları Kaydet"
+
+#: functions.php:567
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: functions.php:568
+msgid "Quote"
+msgstr "Alıntı"
+
+#: functions.php:573
+msgid "Advanced edit"
+msgstr "Gelişmiş düzenleme"
+
+#: functions.php:579
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz onay için bekletiliyor."
+
+#: links.php:18
+msgid "Add link"
+msgstr "Link ekle"
+
+#: links.php:19
+msgid "Edit links"
+msgstr "Bağlantıları düzenle"
+
+#: sidebar.php:25
+msgid "Subscribe to this blog..."
+msgstr "Bu bloga abone olun..."
+
+#: sidebar.php:25
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr>"
+msgstr "<abbr title=\"Beslemeler\">RSS</abbr>"
+
+#: sidebar.php:28
+#: sidebar.php:29
+#: sidebar.php:30
+#: sidebar.php:31
+#: sidebar.php:32
+#: sidebar.php:33
+#: sidebar.php:34
+#: sidebar.php:35
+msgid "Subscribe with "
+msgstr "Bununla: "
+
+#: sidebar.php:28
+msgid "Google"
+msgstr "Google"
+
+#: sidebar.php:29
+msgid "Youdao"
+msgstr "Youdao"
+
+#: sidebar.php:30
+msgid "Xian Guo"
+msgstr "Xian Guo"
+
+#: sidebar.php:31
+msgid "Zhua Xia"
+msgstr "Zhua Xia"
+
+#: sidebar.php:32
+msgid "My Yahoo!"
+msgstr "My Yahoo!"
+
+#: sidebar.php:33
+msgid "newsgator"
+msgstr "newsgator"
+
+#: sidebar.php:34
+msgid "Bloglines"
+msgstr "Bloglines"
+
+#: sidebar.php:35
+msgid "iNezha"
+msgstr "iNezha"
+
+#: sidebar.php:40
+msgid "Subscribe to this blog via email..."
+msgstr "Bu bloga e-posta ile abone olun..."
+
+#: sidebar.php:40
+msgid "Email feed"
+msgstr "E-Posta akışı"
+
+#: sidebar.php:42
+msgid "Follow me!"
+msgstr "Beni takip et !"
+
+#: single.php:7
+msgid "Go to homepage"
+msgstr "Anasayfaya git"
+
+#: single.php:7
+msgid "Home"
+msgstr "Anasayfa"
+
+#: templates/header.php:66
+msgid "Type text to search here..."
+msgstr "Arama.."
+

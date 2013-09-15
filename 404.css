@@ -1,0 +1,16 @@
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,p,fieldset{margin:0;padding:0}
+body{font-family:Verdana,"BitStream vera Sans",Arial,Helvetica,'Lucida Grande','Lucida Sans Unicode',Sans-serif;color:#555}
+img{border:0}
+a{text-decoration:none;color:#2970A6}
+a:hover{text-decoration:underline}
+#container{width:750px;margin:100px auto}
+#talker{float:left;padding-right:45px;background:url(img/commentpoint.png) no-repeat 100% 33%}
+#talker a{float:left;margin-top:20px}
+#notice{float:left;width:560px;padding:15px 20px 0;background:#EDEFF0 url(img/postbox.gif) no-repeat 0 0}
+#notice h1{font-size:24px;font-family:"Courier New", Courier, Monospace}
+#notice p{margin-top:10px;font-size:14px}
+#notice .back{display:block;width:560px;margin:0 -20px;padding:30px 20px;background:url(img/postbox.gif) 100% 100% no-repeat}
+#notice .back a{margin-right:3px;padding:10px 15px;border:1px solid #D0F29D;border-right-color:#398A38;border-bottom-color:#398A38;text-decoration:none;font-weight:bold;font-size:14px;color:#000;background:#9CD941}
+#notice .back a:hover{background:#ADEB51}
+#notice .back a.feed{border:1px solid #FAAC56;border-right-color:#C6432A;border-bottom-color:#C6432A;background:#F9A350}
+#notice .back a.feed:hover{background:#FCB363}

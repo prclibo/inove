@@ -1,0 +1,3 @@
+#content{background-image:url(img/sidesep_left.gif);background-position:left}
+#main{float:right}
+#sidebar {float:left}
