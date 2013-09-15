@@ -11,12 +11,12 @@ Tags: white, light, two-columns, fixed-width, theme-options, right-sidebar
 /* static START */
 body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,form,fieldset,input,textarea,blockquote,p,fieldset{margin:0;padding:0}
 abbr[title],acronym[title]{border-bottom:thin dotted;cursor:help}
-body{font-size:12px;font-family:Verdana,"BitStream vera Sans",Helvetica,Sans-serif;color:#555;background:#BEC3C6 url(img/bg.jpg) repeat-x}
+body{font-size:14px;font-family:"Microsoft YaHei",Verdana,"BitStream vera Sans",Helvetica,Sans-serif;color:#555;background:#BEC3C6 url(img/bg.jpg) repeat-x}
 
 h1,h2,h3,h4,h5,h6{letter-spacing:-0.05em;font-weight:bold;font-family:Arial}
-h1{font-size:200%}
+h1{font-size:170%}
 h2{font-size:170%}
-h3{font-size:150%}
+h3{font-size:140%}
 h4{font-size:130%}
 h5{font-size:110%}
 h6{font-size:100%}
@@ -60,7 +60,7 @@ input.textfield,textarea{padding:2px 1px;border:1px solid #A6A6A6;font-size:12px
 
 /* layout START */
 #wrap{padding:20px 0;background:url(img/light.gif) no-repeat 50% 0}
-#container{width:936px;margin:0 auto}
+#container{width:980px;margin:0 auto}
 #content{min-height:400px;background:#FFF url(img/sidesep.gif) right repeat-y}
 /* layout END */
 
@@ -99,7 +99,7 @@ input.textfield,textarea{padding:2px 1px;border:1px solid #A6A6A6;font-size:12px
 /* navigation END */
 
 /* main START */
-#main{float:left;width:605px;overflow:hidden;padding:13px 15px 15px;background:#FFF url(img/main_shadow.gif) top repeat-x}
+#main{float:left;width:649px;overflow:hidden;padding:13px 15px 15px;background:#FFF url(img/main_shadow.gif) top repeat-x}
 #notice{color:#080}
 #notice a{text-decoration:underline}
 #crumbs{margin:5px 0;padding-left:22px;line-height:16px;background:url(img/icons.gif) no-repeat 0 -320px}
@@ -228,7 +228,7 @@ a#gotop{display:block;float:right;height:16px;padding-left:16px;margin:5px 15px 
 .comment .pic{margin-top:10px;padding-right:14px;background:url(img/commentpoint.png) no-repeat 100% 33%}
 .comment .name{width:67px;overflow:hidden;padding-right:14px;font-weight:bold}
 .comment .avatar{padding:1px;border:1px solid #999}
-.comment .info{float:left;width:494px;padding:10px 15px 0;background:#EDEFF0 url(img/comment.gif) no-repeat 0 0}
+.comment .info{float:left;width:538px;padding:10px 15px 0;background:#EDEFF0 url(img/comment.gif) no-repeat 0 0}
 .comment .date,.trackback .date{float:left;font-size:10px}
 .comment .act,.trackback .act{float:right;font-size:10px}
 .comment .content{margin:0 -15px;padding:0 15px 10px;line-height:145%;background:url(img/comment.gif) no-repeat 100% 100%}
@@ -251,7 +251,7 @@ a#gotop{display:block;float:right;height:16px;padding-left:16px;margin:5px 15px 
 #respond .textfield{width:200px}
 
 #emoticon{float:right;margin-top:1px;margin-right:10px}
-#comment{width:601px}
+#comment{width:645px}
 #commentnavi{padding:10px 15px;font-size:11px;background:#EDEFF0 url(img/box.gif) no-repeat 0 0}
 #commentnavi a.page-numbers{margin:0 -2px;padding:5px 7px;border:1px solid #EDEFF0;text-decoration:none}
 #commentnavi a.page-numbers:hover{border:1px solid #CCC;text-decoration:none;background:#F7F7F7}
