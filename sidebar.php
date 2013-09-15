@@ -117,13 +117,6 @@
 	<div id="eastsidebar" class="sidebar">
 	<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('east_sidebar') ) : ?>
 
-		<!-- categories -->
-		<div class="widget widget_categories">
-			<h3>Categories</h3>
-			<ul>
-				<?php wp_list_categories('title_li=0&orderby=name&order=ASC&show_count=0&depth=1'); ?>
-			</ul>
-		</div>
 
 	<?php endif; ?>
 	</div>
@@ -133,13 +126,6 @@
 	<div id="westsidebar" class="sidebar">
 	<?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('west_sidebar') ) : ?>
 
-		<!-- blogroll -->
-		<div class="widget widget_links">
-			<h3>Blogroll</h3>
-			<ul>
-				<?php wp_list_bookmarks('title_li=&categorize=0'); ?>
-			</ul>
-		</div>
 
 	<?php endif; ?>
 	</div>
@@ -149,27 +135,6 @@
 <!-- sidebar south START -->
 <div id="southsidebar" class="sidebar">
 <?php if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('south_sidebar') ) : ?>
-
-	<!-- archives -->
-	<div class="widget">
-		<h3>Archives</h3>
-		<?php if(function_exists('wp_easyarchives_widget')) : ?>
-			<?php wp_easyarchives_widget("mode=none&limit=6"); ?>
-		<?php else : ?>
-			<ul>
-				<?php wp_get_archives('type=monthly'); ?>
-			</ul>
-		<?php endif; ?>
-	</div>
-
-	<!-- meta -->
-	<div class="widget">
-		<h3>Meta</h3>
-		<ul>
-			<?php wp_register(); ?>
-			<li><?php wp_loginout(); ?></li>
-		</ul>
-	</div>
 
 <?php endif; ?>
 </div>
