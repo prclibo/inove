@@ -1,8 +1,15 @@
 <?php get_header(); ?>
 
-<?php if(have_posts()) : the_post(); ?>
+<?php 
+if(have_posts()) : the_post(); 
+ob_start();
+post_class();
+$class_string = ob_get_clean();
+$class_string = substr($class_string, 0, strlen($class_string) - 1);
+$class_string .= ' post"';
+?>
 
-	<div id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
+	<div id="post-<?php the_ID(); ?>" <?php echo $class_string ?>>
 		<h2><?php the_title(); ?></h2>
 		<div class="info clearfix">
 			<span class="date"><?php the_modified_date(); ?></span>
